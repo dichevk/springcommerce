@@ -1,0 +1,1 @@
+Product microservice used to atomically handle the product objects in the springecommerce application. The service uses dependency injection implementation with repository pattern. 

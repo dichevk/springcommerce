@@ -1,1 +1,0 @@
-Java spring e-commerce project using microservices architecture. The web application allows orders and items to be placed and managed using separate module services
