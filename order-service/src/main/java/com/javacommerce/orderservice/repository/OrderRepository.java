@@ -1,5 +1,7 @@
 package com.javacommerce.orderservice.repository
 
-public class OrderRepository(){
-  private String connectionString;
+import com.javacommerce.orderservice.model.Order;
+import org.springframework.data.mongodb.repository.MongoRepository;
+
+public interface ProductRepository extends MongoRepository<Order, String> {
 }
