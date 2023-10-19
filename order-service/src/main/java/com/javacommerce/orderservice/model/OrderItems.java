@@ -19,8 +19,5 @@ public class OrderItems {
     private Long id;
     private BigDecimal price;
     private Integer numberOfItems; 
-    private String code;
-
-
-
+    private String BarCode;
 }

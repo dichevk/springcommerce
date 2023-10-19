@@ -22,5 +22,5 @@ public class InventoryModel {
     @Id
     private String id; 
     private Integer quantity;
-    private String code; 
+    private String BarCode; 
 }
