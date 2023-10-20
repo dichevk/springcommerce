@@ -1,15 +1,15 @@
+package com.javacommerce.inventoryservice.dto;
+
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-public class InventoryRequest {
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
-public class InventoryResponse {
-    private String skuCode;
+public class InventoryRequest {
+    private String barcode;
     private boolean isInStock;
-}
 }
