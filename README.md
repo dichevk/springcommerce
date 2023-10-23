@@ -12,7 +12,7 @@ services:
 
     inventory-service:
 
-    service used for CRUD handling the inventory with skucodes
+    service used for CRUD handling the inventory with barcodes
 
     notification-service:
 

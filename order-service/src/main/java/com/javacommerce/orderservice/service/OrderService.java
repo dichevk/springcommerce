@@ -23,7 +23,7 @@ public class OrderService{
         OrderItems orderItems = new OrderItems();
         orderItems.setPrice(OrderItemsDto.getPrice());
         orderItems.setQuantity(OrderItemsDto.getQuantity());
-        orderItems.setSkuCode(OrderItemsDto.getSkuCode());
+        orderItems.setBarCode(OrderItemsDto.getBarCode());
         return orderItems;
     }
 
