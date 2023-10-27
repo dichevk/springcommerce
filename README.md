@@ -18,3 +18,8 @@ services:
 
     service used for CRUD handling the notifications received related to movements with the order
     
+https://spring.io/guides/gs/maven/
+https://docs.spring.io/spring-framework/reference/index.html
+https://spring.io/projects/spring-kafka
+https://docs.spring.io/spring-data/data-commons/docs/1.6.1.RELEASE/reference/html/repositories.html
+https://spring.io/blog/2016/02/15/distributed-tracing-with-spring-cloud-sleuth-and-spring-cloud-zipkin
