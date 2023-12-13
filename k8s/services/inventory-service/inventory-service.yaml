@@ -12,7 +12,6 @@ spec:
   strategy: {}
   template:
     metadata:
-
       labels:
         app: inventory-service
     spec:
@@ -38,7 +37,7 @@ spec:
   ports:
     - name: "80"
       port: 80
-      targetPort: 9191
+      targetPort: 9194
   selector:
     app: inventory-service
 status:
