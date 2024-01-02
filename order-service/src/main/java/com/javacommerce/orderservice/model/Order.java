@@ -1,4 +1,4 @@
-package orderservice.model
+package orderservice.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

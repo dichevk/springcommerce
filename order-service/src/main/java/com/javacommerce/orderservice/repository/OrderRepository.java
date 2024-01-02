@@ -1,4 +1,4 @@
-package com.javacommerce.orderservice.repository
+package com.javacommerce.orderservice.repository;
 
 import com.javacommerce.orderservice.model.Order;
 import org.springframework.data.mongodb.repository.MongoRepository;
